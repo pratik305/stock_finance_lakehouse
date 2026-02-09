@@ -3,7 +3,6 @@
 An end-to-end **Lakehouse data engineering project** built using **Databricks Community Edition**, **Delta Lake**, **PySpark**, and **Spark SQL**.  
 The project demonstrates production-style ingestion, incremental processing, and analytics-ready modeling using the **Medallion Architecture (Bronze → Silver → Gold)**.
 
-This project is intentionally designed for **Data Engineer / Analytics Engineer roles**.
 
 ---
 
